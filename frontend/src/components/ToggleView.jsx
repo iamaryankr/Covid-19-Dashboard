@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function ToggleView({ view,onChange }) {
   return (
     <div className="flex gap-2 mb-4">

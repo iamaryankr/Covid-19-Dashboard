@@ -1,4 +1,3 @@
-// frontend/src/components/DarkModeToggle.jsx
 import React, { useEffect, useState } from 'react';
 
 export default function DarkModeToggle() {
