@@ -1,0 +1,74 @@
+[
+  {
+    "country": "India",
+    "totalCases": 30000000,
+    "activeCases": 1000000,
+    "recovered": 28500000,
+    "deaths": 500000,
+    "vaccinated": 1200000000,
+    "history": [
+      { "date": "2023-01-01", "cases": 50000, "recovered": 48000, "deaths": 1000 },
+      { "date": "2023-01-02", "cases": 51000, "recovered": 49000, "deaths": 1100 }
+    ]
+  },
+  {
+    "country": "United States",
+    "totalCases": 40000000,
+    "activeCases": 2000000,
+    "recovered": 37000000,
+    "deaths": 1000000,
+    "vaccinated": 250000000,
+    "history": [
+      { "date": "2023-01-01", "cases": 60000, "recovered": 58000, "deaths": 1200 },
+      { "date": "2023-01-02", "cases": 62000, "recovered": 60000, "deaths": 1300 }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "totalCases": 22000000,
+    "activeCases": 500000,
+    "recovered": 21000000,
+    "deaths": 500000,
+    "vaccinated": 180000000,
+    "history": [
+      { "date": "2023-01-01", "cases": 45000, "recovered": 43000, "deaths": 900 },
+      { "date": "2023-01-02", "cases": 47000, "recovered": 45000, "deaths": 950 }
+    ]
+  },
+  {
+    "country": "Germany",
+    "totalCases": 15000000,
+    "activeCases": 300000,
+    "recovered": 14500000,
+    "deaths": 200000,
+    "vaccinated": 90000000,
+    "history": [
+      { "date": "2023-01-01", "cases": 30000, "recovered": 29000, "deaths": 800 },
+      { "date": "2023-01-02", "cases": 32000, "recovered": 31000, "deaths": 850 }
+    ]
+  },
+  {
+    "country": "Japan",
+    "totalCases": 10000000,
+    "activeCases": 250000,
+    "recovered": 9700000,
+    "deaths": 150000,
+    "vaccinated": 100000000,
+    "history": [
+      { "date": "2023-01-01", "cases": 20000, "recovered": 19000, "deaths": 500 },
+      { "date": "2023-01-02", "cases": 21000, "recovered": 20000, "deaths": 550 }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "totalCases": 25000000,
+    "activeCases": 400000,
+    "recovered": 24300000,
+    "deaths": 300000,
+    "vaccinated": 85000000,
+    "history": [
+      { "date": "2023-01-01", "cases": 35000, "recovered": 34000, "deaths": 750 },
+      { "date": "2023-01-02", "cases": 37000, "recovered": 36000, "deaths": 800 }
+    ]
+  }
+]
